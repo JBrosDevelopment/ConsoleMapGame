@@ -1,0 +1,15 @@
+C:\Users\jlham\source\repos\MapLayout\Console\bin\Debug\net7.0\Console.exe
+C:\Users\jlham\source\repos\MapLayout\Console\bin\Debug\net7.0\Console.deps.json
+C:\Users\jlham\source\repos\MapLayout\Console\bin\Debug\net7.0\Console.runtimeconfig.json
+C:\Users\jlham\source\repos\MapLayout\Console\bin\Debug\net7.0\Console.dll
+C:\Users\jlham\source\repos\MapLayout\Console\bin\Debug\net7.0\Console.pdb
+C:\Users\jlham\source\repos\MapLayout\Console\obj\Debug\net7.0\Console.csproj.AssemblyReference.cache
+C:\Users\jlham\source\repos\MapLayout\Console\obj\Debug\net7.0\Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jlham\source\repos\MapLayout\Console\obj\Debug\net7.0\Console.AssemblyInfoInputs.cache
+C:\Users\jlham\source\repos\MapLayout\Console\obj\Debug\net7.0\Console.AssemblyInfo.cs
+C:\Users\jlham\source\repos\MapLayout\Console\obj\Debug\net7.0\Console.csproj.CoreCompileInputs.cache
+C:\Users\jlham\source\repos\MapLayout\Console\obj\Debug\net7.0\Console.dll
+C:\Users\jlham\source\repos\MapLayout\Console\obj\Debug\net7.0\refint\Console.dll
+C:\Users\jlham\source\repos\MapLayout\Console\obj\Debug\net7.0\Console.pdb
+C:\Users\jlham\source\repos\MapLayout\Console\obj\Debug\net7.0\Console.genruntimeconfig.cache
+C:\Users\jlham\source\repos\MapLayout\Console\obj\Debug\net7.0\ref\Console.dll
